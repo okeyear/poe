@@ -11,7 +11,10 @@ The repo include AHK scripts and playground.
 </div>
 
 
+
 # readme template, pending
+https://github.com/RichardLitt/standard-readme
+
 
 # Standard Readme
 
