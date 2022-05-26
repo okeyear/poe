@@ -11,6 +11,13 @@ The repo include AHK scripts and playground.
 </div>
 
 
+# TODO List
+
+- [ ] 创建POE导航页,即常用网站, 收藏后,点击可以跳转到常用导航
+- [ ] AHK脚本拆分整理
+- [ ] BD
+- [ ] 新手的常用玩法
+
 
 # readme template, pending
 https://github.com/RichardLitt/standard-readme
